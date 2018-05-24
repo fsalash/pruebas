@@ -1,6 +1,5 @@
 #! /bin/bash
 # pruebas mcal
-# No me gusta Modificacion desde git web
 #Declaracion de variables para uso en el script
 Params=$#
 Mes=$1
