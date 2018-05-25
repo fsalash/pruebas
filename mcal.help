@@ -1,0 +1,23 @@
+MCAL(1)  --Extraido de ayuda de cal
+                         
+
+
+NAME
+     mcal [[mes] [año]] — muestra el calendario del mes y/o año pasado por parametro
+
+SYNOPSIS
+     mcal [[month] year] siendo month valores numericos comprendidos entre 1 y 12 y abreviaturas/nombresCompletos en ingles o castellano referentes al mes en cuestion que se quiere consultar
+     mcal [[month] year] siendo year el valor numerico del año sobre el que se quiere consultar el calendario. Valores permitidos de 12 a 9999.
+     
+DESCRIPTION
+
+	Utilidad basica para mostrar el calendario del mes y/o año pasado por parametro
+     
+	Opciones disonibles:
+
+     -help      Muestra el contenido del fichero actual donde se muestra informacion relativa al comando mcal.
+
+
+
+AUTHOR : Francisco Salas Hortelano
+
